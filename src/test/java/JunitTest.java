@@ -11,4 +11,9 @@ public class JunitTest {
     public void myFirstTest2() {
         assertEquals(2+2, 4);
     }
+    
+    @Test
+    public void myFirstTest3() {
+        assertEquals(2+2, 4);
+    }
 }
